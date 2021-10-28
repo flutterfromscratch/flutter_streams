@@ -53,9 +53,9 @@ packages:
   easy_opener:
     dependency: "direct main"
     description:
-      path: "C:/code/easy_opener"
-      relative: false
-    source: path
+      name: easy_opener
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.0.1"
   fake_async:
     dependency: transitive
